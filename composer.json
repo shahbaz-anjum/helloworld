@@ -1,0 +1,13 @@
+{
+    "name": "shahbazmehar/hello-world",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Shahbaz",
+            "email": "shahbaz.mehar@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
